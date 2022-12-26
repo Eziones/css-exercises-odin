@@ -1,0 +1,13 @@
+.moi, .nonmoi {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+.moi {
+    background-color: black;
+    color: white;
+}
+
+.nonmoi {
+    background-color: yellow;
+}
