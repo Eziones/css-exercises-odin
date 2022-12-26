@@ -1,0 +1,19 @@
+.allo {
+    background-color: coral;
+}
+
+.hello
+{
+font-size: 30px;
+}
+
+#numero2 {
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blue;
+}
+
+#numero4 {
+    background-color: chartreuse;
+    font-weight: bold;
+}
